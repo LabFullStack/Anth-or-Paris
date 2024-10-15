@@ -1,0 +1,17 @@
+{
+  "name": "dist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "homepage": "https://LabFullStack.github.io/Anth-or-Paris",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
+  }
+}
